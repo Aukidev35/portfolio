@@ -1,0 +1,104 @@
+.container1 {
+  width: 95%;
+  background-color: lightblue;
+  border-radius: 10px;
+  animation: fill 0.5s 1s linear forwards;
+  transform-origin: left;
+  opacity: 0;
+}
+
+.skills1 {
+  text-align: right;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+  opacity: 0;
+  animation: fill 0.5s 2s linear forwards;
+  transform-origin: left;
+}
+
+@keyframes fill {
+  0% {
+    opacity: 1;
+    transform: scaleX(0);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scaleX(1);
+  }
+}
+
+.html {
+  width: 80%;
+  background-color: violet;
+}
+
+.css {
+  width: 60%;
+  background-color: indigo;
+}
+
+.js {
+  width: 50%;
+  background-color: blue;
+}
+
+.php {
+  width: 50%;
+  background-color: cyan;
+}
+
+.ci4 {
+  width: 50%;
+  background-color: green;
+}
+
+.bootstrap {
+  width: 50%;
+  background-color: greenyellow;
+}
+
+.visualBasic {
+  width: 60%;
+  background-color: yellow;
+}
+
+.Csharp {
+  width: 70%;
+  background-color: orange;
+}
+
+.python {
+  width: 30%;
+  background-color: orangered;
+}
+
+.xamarin {
+  width: 30%;
+  background-color: red;
+}
+
+.postgresql {
+  width: 70%;
+  background-color: brown;
+}
+
+.mysql {
+  width: 70%;
+  background-color: red;
+}
+
+.merise {
+  width: 70%;
+  background-color: orangered;
+}
+
+body {
+
+  min-height: 200px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+

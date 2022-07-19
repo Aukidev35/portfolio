@@ -1,0 +1,17 @@
+reste a faire portfolio
+1-- problème image sur index ok
+
+2-- contrôler le centrage de toutes les pages ok
+
+3-- terminer présentation du stage ok
+
+4-- terminer la présentation de chopesgames ok
+
+5-- si il y a le temps faire le routage de la pages
+
+6-- mettre des champs dans photo créer produit pour faire plus jolie ok
+
+7-- mettre les bons nom sous les photos en agrandissement image ok
+
+8-- telechargement fichier faire lien direct ou attribut download
+
